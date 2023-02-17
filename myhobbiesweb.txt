@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html>
+<title>Jack's Hobbies And Interests</title>
+<body>
+
+<header> 
+Welcome to Jack's Interests and Hobbies
+<hr /> 
+</header>
+<nav> 
+<a href="/Youtube/" target="_blank" > Youtube </a>
+<a href="/Reddit/" target="_blank" > Reddit </a>
+<a href="/Valorant/" target="_blank" > Valorant </a>
